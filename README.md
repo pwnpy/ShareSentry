@@ -125,7 +125,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - This project was made possible thanks to the work of the [Office365-REST-Python-Client](https://github.com/vgrem/Office365-REST-Python-Client) library.
   
-- Special thanks to the [LOLSearches](https://github.com/ZephrFish/LOLSearches) for providing KQL queries samples.
+- Thanks to the [LOLSearches](https://github.com/ZephrFish/LOLSearches) for providing KQL queries samples.
   
 ## Disclaimer
 
