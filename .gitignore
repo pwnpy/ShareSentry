@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+logs/
+*.log
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env
+
+# Ignore any backups or archives
+*.bak
+*.zip
+*.tar.gz
+*.rar
+
+# Temporary or transient files
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Version control folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Folders to exclude
+config/
+V1/
+V2/
+Debug/
+screenshots/
+output/
+templates/
+wordlists/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

@@ -1,0 +1,5 @@
+office365-rest-python-client
+tqdm
+colorama
+pyfiglet
+rich
