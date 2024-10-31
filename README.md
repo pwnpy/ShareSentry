@@ -11,13 +11,6 @@ A security tool designed to search, scan, and deploy decoys across SharePoint en
 - ✍️ **Write Permission Analysis**: Detect SharePoint spaces where the authenticated account has write access
 - 🍯 **Honeytoken Deployment**: Automatically deploy customizable honey tokens across writable SharePoint spaces
 
-## Blog Posts
-check out the blog series on Medium:
-
-1. **[SharePoint Recon](https://medium.com/part-1-introduction-to-sharesentry)**  
-2. **[SharePoint Recon Part 2](https://medium.com/part-2-exploring-sharepoint-how-much-access-do-you-really-have)** 
-3. **[Deploying Decoys in SharePoint](https://medium.com/part-3-deploying-decoys-in-sharepoint)**.
-
 ## Prerequisites
 
 - Python 3.8+
@@ -116,6 +109,13 @@ output/
 logs/
 ├── audit.log # Audit logs
 ```
+
+## Blog Posts
+check out the blog series on Medium:
+
+1. **[SharePoint Recon](https://medium.com/part-1-introduction-to-sharesentry)**  
+2. **[SharePoint Recon Part 2](https://medium.com/part-2-exploring-sharepoint-how-much-access-do-you-really-have)** 
+3. **[Deploying Decoys in SharePoint](https://medium.com/part-3-deploying-decoys-in-sharepoint)**.
 
 ## License
 
