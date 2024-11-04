@@ -13,8 +13,8 @@ A security tool designed to search, scan, and deploy decoys across SharePoint en
 
 ## Prerequisites
 
-- Python 3.8+
-- SharePoint Online subscription
+- Python
+- SharePoint Online Access
 - Appropriate SharePoint permissions for deployment of decoys
 - [Office365-REST-Python-Client](https://github.com/vgrem/Office365-REST-Python-Client) library
 
