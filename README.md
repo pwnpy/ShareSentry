@@ -117,10 +117,6 @@ check out the blog series on Medium:
 2. **[SharePoint Recon Part 2](https://medium.com/part-2-exploring-sharepoint-how-much-access-do-you-really-have)** 
 3. **[Deploying Decoys in SharePoint](https://medium.com/part-3-deploying-decoys-in-sharepoint)**.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - This project was made possible thanks to the work of the [Office365-REST-Python-Client](https://github.com/vgrem/Office365-REST-Python-Client) library.
