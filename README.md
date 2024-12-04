@@ -113,9 +113,9 @@ logs/
 ## Blog Posts
 check out the blog series on Medium:
 
-1. **[SharePoint Recon](https://medium.com/part-1-introduction-to-sharesentry)**  
-2. **[SharePoint Recon Part 2](https://medium.com/part-2-exploring-sharepoint-how-much-access-do-you-really-have)** 
-3. **[Deploying Decoys in SharePoint](https://medium.com/part-3-deploying-decoys-in-sharepoint)**.
+1. **[SharePoint Recon - Scanning for Sensitive Content](https://medium.com/@pwnium/hidden-in-plain-sight-is-your-sharepoint-a-treasure-map-784f9f6d3c88)**  
+2. **[SharePoint Recon - Mapping the Attack Surface](https://medium.com/@pwnium/sharepoint-recon-mapping-the-invisible-attack-surface-8f328ff35f4f)** 
+3. **[Deploying Decoys in SharePoint](https://medium.com/part-3-deploying-decoys-in-sharepoint)**
 
 ## Acknowledgments
 
