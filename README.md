@@ -22,7 +22,7 @@ A security tool designed to search, scan, and deploy decoys across SharePoint en
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Sage-CDO/ShareSentry.git
+git clone https://github.com/pwnpy/ShareSentry.git
 cd ShareSentry
 ```
 
